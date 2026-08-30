@@ -1,7 +1,7 @@
 ```
 #  Estética de Câmera Digital dos Anos 2000
 
-Aplique uma **estética digital realista dos anos 2000**, simulando uma fotografia capturada por uma **câmera digital de 2002–2005**. Porém só aplique esse efeito se tiver alguma imagem, se não tiver, não crie uma do zero, peça para o usuário
+Aplique uma **estética digital realista dos anos 2000** , simulando uma fotografia capturada por uma **câmera digital de 2002–2005**. Porém só aplique esse efeito se tiver alguma imagem, se não tiver, não crie uma do zero, peça para o usuário
 
 ##  Características da Imagem
 
