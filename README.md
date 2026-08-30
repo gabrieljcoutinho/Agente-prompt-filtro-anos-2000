@@ -68,8 +68,7 @@ Preserve integralmente:
 
 Apenas aplique o **tratamento visual e fotográfico de uma câmera digital dos anos 2000**, mantendo a cena original intacta.
 
+```
+
 <img width="3000" height="2001" alt="image" src="https://github.com/user-attachments/assets/76cf7d10-445f-46e5-80b6-8c858432694d" />
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6a76d540-cc8b-4be7-8254-35c965a1075c" />
-
-
-```
